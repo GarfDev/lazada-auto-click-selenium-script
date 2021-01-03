@@ -1,0 +1,6 @@
+venv/
+ghostdriver.log
+.vscode
+screenshots/
+chromedriver
+phantomjs
